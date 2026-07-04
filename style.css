@@ -1,0 +1,26 @@
+body{
+    margin: 0%;
+}
+.Box{
+    margin: 10% 30%;  
+    display: inline-block;
+    background-color: aqua;
+}
+button{
+    width: 40vw;
+    height: 10vh;
+    color: white;
+    background: linear-gradient(to right, orange, green);
+    font-family: monospace;
+    font-size: large;
+    text-decoration: underline;
+    border-top: none;
+
+}
+img{
+    width: 40vw;
+    display: block;
+}
+*{
+    box-sizing: border-box;
+}
